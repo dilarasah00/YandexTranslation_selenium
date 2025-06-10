@@ -1,6 +1,5 @@
  [{
         "test_case": "English Text",
-        "file_path":"C:/Users/a/Desktop/englishText.docx",
         "status_message": "Belgenin çevirisi tamamlandı",
         "file_name":"englishText.docx"
     }
