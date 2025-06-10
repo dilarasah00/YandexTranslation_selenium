@@ -1,0 +1,13 @@
+[
+
+     {
+        "test_case": "Empty Text",
+        "status_message": "Dosya çevrilemedi. Dosyayı bölümlere ayırın veya az sonra tekrar deneyin.",
+        "file_name":"empty.docx"
+    },
+    {
+        "test_case": "invalid file",
+        "status_message": "Dosya çevrilemedi. Dosyayı bölümlere ayırın veya az sonra tekrar deneyin.",
+        "file_name":"invalid_file.txt"
+    }
+]
